@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">FateQuickSearch</string>
+
+    <string-array name="Servantlass">
+
+        <item>Saber</item>
+        <item>Archer</item>
+        <item>Lancer</item>
+        <item>Rider</item>
+        <item>Caster</item>
+        <item>Assassain</item>
+        <item>Berserker</item>
+        <item>Ruler</item>
+        <item>Avenger</item>
+
+    </string-array>
+
+</resources>
